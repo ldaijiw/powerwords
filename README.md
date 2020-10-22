@@ -2,7 +2,7 @@
 
 ## POWER WORDS
 
-(List of Power Words)[https://sumo.com/stories/power-words]
+[List of Power Words](https://sumo.com/stories/power-words)
 
 Hi my name is Leo Waltmann, I've recently graduated from Imperial College London with a degree in physics.
 Although my primary experience was with python working on data analysis and visualisation projects,
